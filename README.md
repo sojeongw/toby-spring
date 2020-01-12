@@ -64,4 +64,4 @@ STS 2.9.2를 사용한다면 설치 서버는 `VMware vFabric tc Server Develope
 
 책의 내용을 참고해서 코드를 살펴보는 용도로 사용하기를 권장한다. 물론 웹 애플리케이션의 구조는 그대로 가져다 프로젝트 템플릿으로 사용할 수 있다.
 
-`springusergroup`에는 책에서 설명하지 않은 몇 가지 확장 방법을 보여 준다. 이에 관한 상세한 정보는 저자의 블로그에 있는 책 정보 페이지(http://toby.epril.com/tobyspring3/)를 참고하면 된다.
+`springusergroup`에는 책에서 설명하지 않은 몇 가지 확장 방법을 보여 준다. 이에 관한 상세한 정보는 저자의 블로그에 있는 책 정보 페이지(http://toby.epril.com/tobyspring3/) 를 참고하면 된다.
